@@ -1,0 +1,10 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/test/
+/.idea/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
